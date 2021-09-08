@@ -6,8 +6,6 @@
 2. Organize your solutions into folders pertaining the practice topic and files named correctly with respect to the question involved.
 3. This folder will be used to assess your progress in your course.  Not all the items will be marked, but some *may* be randomly chosen to.
 
-If working on the problems using repl with GitHub intergration, make sure to set your .replit file to run the practice file you want. For example, here's a file called `question 1.py` that will run from the `operator practice` folder in python practice:
-
 ```
 language="python3"
 run="python 'Python Practice/Operator Practice/Question 1.py'"
